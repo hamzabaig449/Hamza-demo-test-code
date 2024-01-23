@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65aba98c19bf53450bdc0303"
+  },
+  "userId": "12345",
+  "hotelId": "678901",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abd8bfb73acbedcc7d721e"
+  },
+  "userId": "10",
+  "hotelId": "456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abe4418565c82e8a0afabf"
+  },
+  "userId": "12345",
+  "hotelId": "678901",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abef88a64c8c487ab0f80b"
+  },
+  "userId": "45",
+  "hotelId": "921",
+  "__v": 0
+}]
